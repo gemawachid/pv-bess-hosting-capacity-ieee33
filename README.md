@@ -286,11 +286,11 @@ Eight critical bugs were identified and fixed. Full report: `project_summary.doc
 
 ```bibtex
 @misc{pvbess2026,
-  author       = {Rai, [Your Name]},
+  author       = {Aryasatya, Gema Wachid},
   title        = {PV and BESS Optimal Hosting Capacity Sizing on IEEE 33-Bus Distribution System},
   year         = {2026},
-  howpublished = {\url{https://github.com/<your-username>/pv-bess-hosting-capacity-ieee33}},
-  note         = {Thesis project -- LinDistFlow MILP, Pyomo/HiGHS, 7-day stochastic profiles}
+  howpublished = {\url{https://github.com/gemawachid/pv-bess-hosting-capacity-ieee33}},
+  note         = {project -- LinDistFlow MILP, Pyomo/HiGHS, 7-day stochastic profiles}
 }
 ```
 
