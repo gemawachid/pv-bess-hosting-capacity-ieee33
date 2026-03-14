@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)]()
 
-> **Thesis project** — Optimal siting and sizing of rooftop PV and battery energy storage (BESS) on the IEEE 33-bus radial distribution feeder using Mixed-Integer Linear Programming (MILP) with full LinDistFlow (P+Q) and 7-day stochastic load & PV profiles.
+> **Self project** — Optimal siting and sizing of rooftop PV and battery energy storage (BESS) on the IEEE 33-bus radial distribution feeder using Mixed-Integer Linear Programming (MILP) with full LinDistFlow (P+Q) and 7-day stochastic load & PV profiles.
 
 ---
 
