@@ -45,9 +45,9 @@ The objective minimizes **Energy Not Served (ENS)** while keeping all bus voltag
 | Network | IEEE 33-bus radial feeder (Baran & Wu, 1989) |
 | Buses | 33 |
 | Branches | 32 |
-| Nominal voltage | 12.66 kV |
+| Nominal voltage | 20.00 kV |
 | System base | 10 MVA |
-| Impedance base | 16.034 Ohm |
+| Impedance base | 40.00 Ohm |
 | Peak active load | 3,715 kW |
 | Peak reactive load | 2,300 kVAr |
 | Time horizon | 7 days x 24 hours (hourly dispatch) |
@@ -64,7 +64,7 @@ Bus 1 -- 2 -- 3 -- 4 -- 5 -- 6 -- 7 -- ... -- 18   (main feeder)
          22             29 -- 30 -- 31 -- 32 -- 33
 ```
 
-> **Weakest bus:** Bus 18 — V = 0.9115 pu at peak load (no DER)
+> **Weakest bus:** Bus 18 — V = 0.96 pu at peak load (no DER)
 > **Worst power factor:** Bus 30 — Q = 600 kVAr, P = 200 kW, PF = 0.316
 
 ---
